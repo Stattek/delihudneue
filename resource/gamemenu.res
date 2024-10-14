@@ -175,9 +175,9 @@
 	}
 	"Toggle Mouse"
 	{
-		"label"										"k"
+		"label"										"n"
 		"command"									"engine toggle tf_scoreboard_mouse_mode 0 2"
-		"tooltip"									"Enable/Disable Mouse"
+		"tooltip"									"Enable/Disable Scoreboard Mouse"
 		"OnlyInGame"								"1"
 	}
 }
