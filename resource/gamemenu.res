@@ -173,4 +173,11 @@
 		"tooltip"									"Enable/Disable Chat"
 		"OnlyInGame"								"1"
 	}
+	"Toggle Mouse"
+	{
+		"label"										"k"
+		"command"									"engine toggle tf_scoreboard_mouse_mode 0 2"
+		"tooltip"									"Enable/Disable Mouse"
+		"OnlyInGame"								"1"
+	}
 }
